@@ -1,4 +1,5 @@
-# Тайжанов Нурбек (15 лет) Machine learning engineer
+# Тайжанов Нурбек (16 лет) Техническое задание на nFactorial Incubator 2023
+
 
 ## Installation
 
